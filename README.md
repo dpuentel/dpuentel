@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-As a software engineer with extensive experience, I am well-versed in a variety of programming principles and practices, including the principles of **SOLID**, **TDD**, and architecture patterns such as **Hexagonal Architecture**.
+I am a software engineer with over 8 years of experience, during which I have faced challenges that have allowed me to grow professionally and personally.
 
-I am also skilled in designing and implementing **CI/CD** pipelines. This has allowed me to automate many aspects of the software development process, resulting in increased *efficiency* and *faster delivery* times.
+I have had the opportunity to collaborate with great colleagues on some projects, and in others, take the lead and pull the weight.
 
-One of my core values is the production of understandable software. I believe that software should be developed with **readability in mind**, making it easier for other developers to understand and maintain. This approach has led to *better collaboration* with team members, *faster onboarding* of new team members, and *reduced technical debt*.
+I have solid skills in software development, database design, system integration, problem solving, and performance optimization. Additionally, I am accustomed to working in agile environments and am committed to delivering high-quality products.
+
+My experience covers a wide range of technologies, and my main expertise is in PHP and JavaScript.
 
 <!--
 **dpuentel/dpuentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
