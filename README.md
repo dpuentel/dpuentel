@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+As a software engineer with extensive experience, I am well-versed in a variety of programming principles and practices, including the principles of **SOLID**, **TDD**, and architecture patterns such as **Hexagonal Architecture**.
+
+I am also skilled in designing and implementing **CI/CD** pipelines. This has allowed me to automate many aspects of the software development process, resulting in increased *efficiency* and *faster delivery* times.
+
+One of my core values is the production of understandable software. I believe that software should be developed with **readability in mind**, making it easier for other developers to understand and maintain. This approach has led to *better collaboration* with team members, *faster onboarding* of new team members, and *reduced technical debt*.
+
 <!--
 **dpuentel/dpuentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
